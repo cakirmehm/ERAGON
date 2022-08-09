@@ -55,12 +55,12 @@ It runs on a server computer and checks the code, requirements and test procedur
 
 
 ## Setting Parameters
+https://user-images.githubusercontent.com/17138051/183721993-ec8ccb04-b278-4c03-854e-bb8a891e36cc.mov
+
 
 
 ## Checking GIT Repo and Creating Notifications
-
-
-
+https://user-images.githubusercontent.com/17138051/183722090-77b1c346-468c-46ac-960f-5c474e8c7927.mov
 
 
 
