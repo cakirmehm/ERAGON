@@ -52,7 +52,7 @@ It runs on a server computer and checks the code, requirements and test procedur
 
 
 ## Setting Parameters
-https://github.com/cakirmehm/ERAGON/blob/main/ERAGON-1.mov
+https://github.com/cakirmehm/ERAGON/blob/a10b0156163c41111bc20da0e35907467d127f9d/ERAGON-1.mov
 
 ## Checking GIT Repo and Creating Notifications
 https://user-images.githubusercontent.com/17138051/163271748-b5bdb986-6b71-4a7c-b231-267e00850673.mov
